@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,300&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: rgba(0, 0, 0, 0.758);
+  color: white;
+}
+.alert-danger {
+  background-color: rgba(231, 44, 38, 0.844);
+  padding: 5px;
+  border: none;
+  color: rgb(255, 255, 255);
+  margin: 4px;
+}
+.alert-success {
+  background-color: rgb(104, 214, 104);
+  color: rgb(23, 18, 18);
+  border: none;
+  margin: 4px;
+  padding: 5px;
+}
+.mainContainer {
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+}
+.groceryForm {
+  text-align: center;
+  justify-content: center;
+  padding: 10px;
+}
+.groceryText {
+  padding: 5px;
+  width: 70%;
+  margin: 5px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+}
+.submitButton {
+  padding: 5px;
+  width: 10%;
+  border-radius: 2px;
+  outline: none;
+  border: none;
+  font-size: 16px;
+  background-color: rgba(36, 36, 53, 0.834);
+  color: white;
+  margin-left: 5px;
+  transition: 0.3s all;
+  cursor: pointer;
+}
+.submitButton:hover {
+  background-color: rgba(9, 9, 17, 0.848);
+  color: white;
+}
+.groceryListContainer {
+  margin-top: 10px;
+  padding: 20px;
+  /* padding-left: 110px;
+  padding-right: 110px; */
+}
+.groceryList {
+  padding: 10px;
+}
+.individualItem {
+  display: flex;
+  justify-content: space-between;
+  /* padding-left: 100px; */
+}
+.individualItemTITLE {
+  font-size: 20px;
+  background-color: rgb(91, 67, 67);
+  width: 50%;
+  margin-bottom: 5px;
+  margin-left: 2px;
+  border-top-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding-left: 5px;
+}
+.buttonContainer {
+  display: flex;
+  border: 1px solid rebeccapurple;
+  margin-right: 1px;
+}
+
+.editButton {
+  margin-right: 10px;
+  padding: 3px;
+  font-weight: bold;
+  background-color: greenyellow;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 2px;
+}
+.deleteButton {
+  padding: 3px;
+  font-weight: bold;
+  background-color: rgba(209, 37, 37, 0.918);
+  color: white;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 2px;
+}
+.clsButton {
+  text-align: center;
+  align-items: center;
+  margin-top: 70px;
+  padding: 10px;
+}
+.clearButton {
+  padding: 8px;
+  font-weight: 600;
+  background-color: rgba(4, 10, 31, 0.811);
+  color: white;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.4s all;
+}
+.clearButton:hover {
+  background-color: rgb(0, 0, 0);
+  color: red;
+}
+
+/* created by : Arup Mondal (@mondalcodehub)
+REACT SERIES - PROJECT 06 (2022) */
