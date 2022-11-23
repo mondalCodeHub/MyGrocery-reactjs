@@ -20,12 +20,26 @@ This project is part of my React learning process from the scratch. This is a ve
 
 
 # Screenshots
-(01)
+(01) Grocery list interface
+![Screenshot (2181)](https://user-images.githubusercontent.com/88100576/203460036-34faa9f6-df91-4d8b-9931-3cd70ecc87b7.png)
 
-(02)
+(02) Item added
 
-(03)
+![Screenshot (2179)](https://user-images.githubusercontent.com/88100576/203460029-800b6eaa-45b1-4306-8f0b-2bb8e7d96f0c.png)
+(03) Item removed
+![Screenshot (2180)](https://user-images.githubusercontent.com/88100576/203460034-50c6bc3f-0cc5-46c3-9369-fc35283dfedb.png)
+(04) Item modified
+
+![Screenshot (2182)](https://user-images.githubusercontent.com/88100576/203460037-cb40a85e-1718-41da-ac6d-4dadf480e4ce.png)
+
+
+
+
+
 
 
 ## Created By
 Arup Mondal ([@mondalCodeHub](https://www.github.com/mondalCodeHub))
+
+
+
