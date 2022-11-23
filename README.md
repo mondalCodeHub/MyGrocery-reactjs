@@ -1,5 +1,7 @@
 # About this project
 
+```REACT-SERIES-PROJECT-06(2022)```
+
 
 'MyGrocery' is the best web app for making grocery lists as well as collecting and organising recipes. What does a grocery list serve?
 It helps you remember what you need to buy even if you leave or misplace your list on the way to the store. I've added an Edit and Delete button to make things easier. After finishing their shopping, users can delete the entire list section by clicking the 'clear all' button.
